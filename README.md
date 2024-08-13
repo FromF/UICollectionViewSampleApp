@@ -1,0 +1,2 @@
+# UICollectionViewSampleApp
+UICollectionViewを使ったサンプルコード
